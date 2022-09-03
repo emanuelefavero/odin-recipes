@@ -1,3 +1,3 @@
-# The Odin Project Recipes Website
+# The Odin Project Recipes Website (CSS)
 
-One of the first assigned projects from The Odin Projects course: an HTML/CSS website that displays recipes.
+This is the same recipe website from The Odin Project, I just added the css styling
